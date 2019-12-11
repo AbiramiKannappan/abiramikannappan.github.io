@@ -3,7 +3,7 @@ title: "TopicModeling-RatingPrediction"
 date: 2019-12-05
 tags: [topic modelling, text classification, rating prediction]
 header:
-  image: "/images/wordplot.PNG"
+  image: "/images/wordplot.png"
 excerpt: "Topic Modeling, Text Classification, Rating Prediction"
 mathjax: "true"
 ---
