@@ -1,10 +1,10 @@
 ---
 title: "TopicModeling-RatingPrediction"
 date: 2019-12-05
-tags: [topic modelling, text classification, rating prediction]
+tags: [topic modelling, text classification, rating prediction, multi class]
 header:
   image: "/images/wordplot.png"
-excerpt: "Topic Modeling, Text Classification, Rating Prediction"
+excerpt: "Topic Modeling, Text Classification, Rating Prediction, Multi Class"
 mathjax: "true"
 ---
 
