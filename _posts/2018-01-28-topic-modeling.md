@@ -12,5 +12,3 @@ mathjax: "true"
 What about a [link](https://github.com/AbiramiKannappan/TopicModelling-RatingPrediction)?
 
 
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/wordplot.jpg" alt="word plot of good filters">
