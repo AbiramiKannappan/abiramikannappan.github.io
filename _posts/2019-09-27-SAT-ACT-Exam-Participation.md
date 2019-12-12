@@ -1,6 +1,6 @@
 ---
 title: "SAT AND ACT EXAM PARTICIPATION EDA"
-date: 2019-12-11
+date: 2019-09-27
 tags: [sat, act, participation, eda]
 header:
   image: "/images/participation.png"
