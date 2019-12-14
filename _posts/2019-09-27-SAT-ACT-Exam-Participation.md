@@ -10,9 +10,9 @@ mathjax: "true"
 
 **Analysis done in the project:** </br>
      - Student's participation in ACT and SAT Examination.</br> 
-     - Changes in participation rates changes with year and the Reason behind the change.</br>
-     - Trends observed in the scores at subtest and composite.</br>
-     - States that shows interesting trends and the reason behind it.</br>
+     - Changes in participation rates with year and the Reason behind the change.</br>
+     - Trends observed in the scores secured at subtest and composite.</br>
+     - States that are showing an interesting trend and the reason behind it.</br>
 **Recommendations:**  
      - About improving particiation percentage atleast in 1 of the states with lesser participation in SAT Examination.</br>
 
