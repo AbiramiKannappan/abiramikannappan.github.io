@@ -13,7 +13,7 @@ mathjax: "true"
      - Changes in participation rates changes with year and the Reason behind the change.</br>
      - Trends observed in the scores at subtest and composite.</br>
      - States that shows interesting trends and the reason behind it.</br>
-**Recommendations:** </br>   
+**Recommendations:**  
      - About improving particiation percentage atleast in 1 of the states with lesser participation in SAT Examination.</br>
 
 **Kindly refer to the following link for further details**</br>
