@@ -12,6 +12,6 @@ Topic modeling and Rating Prediction(Basic Sentiment Analysis) is done to bring 
 
 Data is Extracted from http://deepyeti.ucsd.edu/jianmo/amazon/index.html
 
-Kindly refer to the link for python coding and the Readme file. [link](https://github.com/AbiramiKannappan/TopicModelling-RatingPrediction)
+**Kindly refer to the link for python coding and the Readme file.** [link](https://github.com/AbiramiKannappan/TopicModelling-RatingPrediction)
 
 
