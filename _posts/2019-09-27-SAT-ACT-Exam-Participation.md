@@ -8,14 +8,14 @@ excerpt: "SAT, ACT, Participation, EDA"
 mathjax: "true"
 ---
 
-**Analysis done in the project:** </br>
-     - Student's participation in ACT and SAT Examination.</br> 
-     - Changes in participation rates with year and the Reason behind the change.</br>
-     - Trends observed in the scores secured at subtest and composite.</br>
-     - States that are showing an interesting trend and the reason behind it.</br>
+**Analysis done in the project:** 
+     - Student's participation in ACT and SAT Examination.
+     - Changes in participation rates with year and the Reason behind the change.
+     - Trends observed in the scores secured at subtest and composite.
+     - States that are showing an interesting trend and the reason behind it.
 **Recommendations:**  
-     - About improving particiation percentage atleast in 1 of the states with lesser participation in SAT Examination.</br>
+     - About improving particiation percentage atleast in 1 of the states with lesser participation in SAT Examination.
 
-**Kindly refer to the following link for further details**</br>
+**Kindly refer to the following link for further details**
 [link](https://github.com/AbiramiKannappan/SAT_AND_ACT_EXAM_PARTICIPATION_AND_RELATED_ANALYSIS)
 
