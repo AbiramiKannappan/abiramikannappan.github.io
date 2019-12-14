@@ -8,8 +8,10 @@ excerpt: "Topic Modeling, Text Classification, Rating Prediction, Multi Class"
 mathjax: "true"
 ---
 
+Topic modeling and Rating Prediction(Basic Sentiment Analysis) is done to bring out the topics discussed in Amazon Refrigerator Water Filter reviews and their sentiments. This project will be helpful for Product development department to understand more about a product and cutomer expectations based on the reviews. They can use those ideas to further develop their product.
 
+Data is Extracted from http://deepyeti.ucsd.edu/jianmo/amazon/index.html
 
-What about a [link](https://github.com/AbiramiKannappan/TopicModelling-RatingPrediction)?
+Kindly refer to the link for python coding and the Readme file. [link](https://github.com/AbiramiKannappan/TopicModelling-RatingPrediction)
 
 
